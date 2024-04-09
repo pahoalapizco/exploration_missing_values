@@ -1,11 +1,19 @@
-# conda env create --file environment.yml
 name: exploration_missing_values
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
+  - fs
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pathlib
   - pip
+  - pyprojroot
   - python=3.7
-  - pip:
-    
+  - scipy
+  - seaborn
+  - statsmodels
+  - pyreadr

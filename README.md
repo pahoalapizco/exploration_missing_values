@@ -4,7 +4,7 @@
 **Author**: pahoalapizco
 
 
-Notes and exercices from "Manejo de datos faltantes: detección y exp
+Notes and exercises from ["Manejo de datos faltantes: detección y exploración"](https://platzi.com/cursos/datos-faltantes/) course by [Platzi](https://platzi.com)
 
 ## Prerequisites
 - Anaconda >=4.x 
