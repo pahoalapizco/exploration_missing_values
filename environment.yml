@@ -17,3 +17,5 @@ dependencies:
   - seaborn
   - statsmodels
   - pyreadr
+  - missingno
+  - upsetplot
