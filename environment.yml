@@ -11,7 +11,7 @@ dependencies:
   - keras
   - lightgbm
   - matplotlib
-  - missingno
+  - missingno==0.5.2
   - nbdime
   - numpy
   - pandas
