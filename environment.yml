@@ -39,3 +39,4 @@ dependencies:
     - nhanes
     - nhanes==0.5.1
     - ozon3
+    - pyjanitor==0.22.0
