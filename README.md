@@ -3,8 +3,10 @@
 **Version**: 1.0
 **Author**: pahoalapizco
 
+This project contains:
 
-Notes and exercises from ["Manejo de datos faltantes: detección y exploración"](https://platzi.com/cursos/datos-faltantes/) course by [Platzi](https://platzi.com)
+- Notes and exercises from ["Manejo de datos faltantes: detección y exploración"](https://platzi.com/cursos/datos-faltantes/) course by [Platzi](https://platzi.com)
+- Notes and exercises from ["Manejo de datos faltantes: Impuración"](https://platzi.com/cursos/datos-faltantes-imputacion) course by [Platzi](https://platzi.com)
 
 ## Prerequisites
 - Anaconda >=4.x 

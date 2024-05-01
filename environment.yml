@@ -1,21 +1,42 @@
 name: exploration_missing_values
 channels:
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
-  - fs
+  - black
+  - invoke
   - jupyter
   - jupyterlab
+  - keras
+  - lightgbm
   - matplotlib
+  - missingno==0.5.2
+  - nbdime
   - numpy
   - pandas
-  - pathlib
-  - pip
+  - pandas-flavor
+  - pandas-profiling
+  - plotly
+  - pyjanitor
+  - pylint
   - pyprojroot
-  - python=3.7
-  - scipy
+  - pyspark
+  - scikit-learn
   - seaborn
   - statsmodels
+  - tensorflow
+  - pip
+  - python=3.9
+  - python-dotenv
+  - session-info
   - pyreadr
-  - missingno
   - upsetplot
+  - statsmodels==0.13.2
+  - fancyimpute
+  - scipy
+  - pip:
+    - nhanes
+    - nhanes==0.5.1
+    - ozon3
+    - pyjanitor==0.22.0
